@@ -2,6 +2,7 @@
 CodeJam SITWDF19 (2019-01-25)
 
 Presenters: Andre Fischer, Jan Ole Skirke, Benjamin Kernberger
+
 Documents: https://tinyurl.com/codejam-sitwdf-2019
 
 Tutorials:
