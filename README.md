@@ -1,6 +1,8 @@
 # sitwdf19_codejam
 CodeJam SITWDF19 (2019-01-25)
 
+Documents: https://tinyurl.com/codejam-sitwdf-2019
+
 Tutorials:
 1. Create Your First ABAP Console Application https://developers.sap.com/tutorials/abap-environment-console-application.html
 2. Create a Simple Database Table for ABAP Environment https://developers.sap.com/tutorials/abap-environment-create-table.html
@@ -12,4 +14,4 @@ Tutorials:
 
 Notes:
 - Restful ABAP Programming (RAP) Model will also be available on-premise with the next release of S/4HANA called S/4HANA 1909.
-- S/4HANA 1809 is based on NetWeaver 7.53, S/4HANA 1909 will probably based on NetWeaver 7.54.
+- S/4HANA 1809 is based on NetWeaver 7.53, S/4HANA 1909 will probably be based on NetWeaver 7.54.
