@@ -9,3 +9,7 @@ Tutorials:
 5. Create an HTTP Service https://developers.sap.com/tutorials/abap-environment-create-http-service.html
 6. Call an External API (with given destination) https://developers.sap.com/tutorials/abap-environment-external-api.html
 7. Create an OData Proxy in ABAP (to call a service in S/4HANA from ABAP Environment)
+
+Notes:
+- Restful ABAP Programming (RAP) Model will also be available on-premise with the next release of S/4HANA called S/4HANA 1909.
+- S/4HANA 1809 is based on NetWeaver 7.53, S/4HANA 1909 will probably based on NetWeaver 7.54.
