@@ -5,13 +5,19 @@ Presenters: Andre Fischer, Jan Ole Skirke, Benjamin Kernberger
 
 Documents: https://tinyurl.com/codejam-sitwdf-2019
 
-Tutorials:
+Getting started Tutorial:
 1. Create Your First ABAP Console Application https://developers.sap.com/tutorials/abap-environment-console-application.html
-2. Create a Simple Database Table for ABAP Environment https://developers.sap.com/tutorials/abap-environment-create-table.html
-3. Create and Expose Core Data Services Based on a Database Table https://developers.sap.com/tutorials/abap-environment-create-cds-view.html
-4. Expose a Standard Core Data Service for ABAP Environment https://developers.sap.com/tutorials/abap-environment-business-service-provisioning.html (Step 9+)
-5. Create an HTTP Service https://developers.sap.com/tutorials/abap-environment-create-http-service.html
-6. Call an External API (with given destination) https://developers.sap.com/tutorials/abap-environment-external-api.html
+2. Expose a Standard Core Data Service for ABAP Environment (Step 9+) https://developers.sap.com/tutorials/abap-environment-business-service-provisioning.html
+(following steps could not be done due to missing Cloud Platform Cockpit access)
+
+Booking Tutorial:
+1. Create a Simple Database Table for ABAP Environment https://developers.sap.com/tutorials/abap-environment-create-table.html
+2. Create and Expose Core Data Services Based on a Database Table https://developers.sap.com/tutorials/abap-environment-create-cds-view.html
+3. Add Transactional Behavior to Your Core Data Services https://developers.sap.com/tutorials/abap-environment-transactional-enablement.html (Persistence...)
+
+Other tutorials:
+1. Create an HTTP Service https://developers.sap.com/tutorials/abap-environment-create-http-service.html
+2. Call an External API (with given destination) https://developers.sap.com/tutorials/abap-environment-external-api.html
 
 Demos:
 - Create an OData Proxy in ABAP (to call a service in S/4HANA from ABAP Environment)
