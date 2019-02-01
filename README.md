@@ -13,7 +13,7 @@ Getting started Tutorial:
 Booking Tutorial:
 1. Create a Simple Database Table for ABAP Environment https://developers.sap.com/tutorials/abap-environment-create-table.html
 2. Create and Expose Core Data Services Based on a Database Table https://developers.sap.com/tutorials/abap-environment-create-cds-view.html
-3. Add Transactional Behavior to Your Core Data Services https://developers.sap.com/tutorials/abap-environment-transactional-enablement.html (Persistence...)
+3. Add Transactional Behavior to Your Core Data Services https://developers.sap.com/tutorials/abap-environment-transactional-enablement.html (Persistence, Actions, ...only unmanaged behavior yet)
 
 Other tutorials:
 1. Create an HTTP Service https://developers.sap.com/tutorials/abap-environment-create-http-service.html
@@ -29,3 +29,4 @@ Notes:
 - ABAP Environment is updated bi-weekly.
 - Restful ABAP Programming (RAP) Model will also be available on-premise with the next release of S/4HANA called S/4HANA 1909.
 - S/4HANA 1809 is based on NetWeaver 7.53, S/4HANA 1909 will probably be based on NetWeaver 7.54.
+- Behavior definitions with managed persistence are not yet released so you have to implement read and write access on your business object yourself.
